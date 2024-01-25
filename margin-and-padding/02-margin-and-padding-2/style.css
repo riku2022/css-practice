@@ -15,6 +15,7 @@ body {
 
 .content {
   background: #e3f4ff;
+
 }
 
 .button-container {
@@ -24,4 +25,32 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+}
+
+/*respuesta */
+.card {
+  padding: 8px;
+}
+
+.title {
+  padding: 10px;
+  margin-top: 1px;
+  margin-bottom: 8px;
+  font-size: 17px;
+}
+.content{
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 17px;
+}
+
+.button-container{
+  padding: 10px;
+  text-align: center;
+}
+button{
+  display: block;
+  margin: 0 auto;
+  padding: 8px 24px;
+  
 }
